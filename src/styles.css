@@ -1,0 +1,16 @@
+
+html {
+background-image: linear-gradient(rgb(69, 166, 220), rgb(164, 7, 171));
+height: 100vh;
+width: 100%;
+background-repeat: no-repeat;
+}
+
+#r {
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  padding: 20px;
+  margin: auto;
+  width: 250px;
+  height: 400px;
+}
